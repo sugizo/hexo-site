@@ -1,6 +1,6 @@
 # Hexo Official Website
 <!-- Markdown snippet -->
-[![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
+[![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site) [![Greenkeeper badge](https://badges.greenkeeper.io/sugizo/hexo-site.svg)](https://greenkeeper.io/)
 
 The website for Hexo. You can see the generated files at [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io) repository.
 
